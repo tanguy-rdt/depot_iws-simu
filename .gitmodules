@@ -10,3 +10,6 @@
 [submodule "third-party/lv_drivers"]
 	path = third-party/lv_drivers
 	url = git@github.com:lvgl/lv_drivers.git
+[submodule "src/hal"]
+	path = src/hal
+	url = git@github.com:tanguy-rdt/depot_iws-hal.git
