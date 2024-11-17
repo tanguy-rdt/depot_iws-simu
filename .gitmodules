@@ -4,3 +4,9 @@
 [submodule "src/proxy"]
 	path = src/proxy
 	url = git@github.com:tanguy-rdt/depot_iws-proxy.git
+[submodule "third-party/lvgl"]
+	path = third-party/lvgl
+	url = git@github.com:lvgl/lvgl.git
+[submodule "third-party/lv_drivers"]
+	path = third-party/lv_drivers
+	url = git@github.com:lvgl/lv_drivers.git
