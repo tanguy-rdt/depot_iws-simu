@@ -1,0 +1,6 @@
+[submodule "src/gui"]
+	path = src/gui
+	url = git@github.com:tanguy-rdt/depot_iws-gui.git
+[submodule "src/proxy"]
+	path = src/proxy
+	url = git@github.com:tanguy-rdt/depot_iws-proxy.git
